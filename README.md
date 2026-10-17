@@ -121,9 +121,9 @@ An automation project focused on controlling traffic lights and pedestrian cross
 
 I am interested in connecting with software developers, engineers, recruiters, and technology professionals.
 
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- **Email:** your.email@example.com
+- **GitHub:** [Your GitHub Profile](https://github.com/Imanathi)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/Imanathi-Ngqaka)
+- **Email:** imanathingqaka@gmail.com
 
 ## 💡 My Goal
 
